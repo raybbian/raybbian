@@ -1,10 +1,12 @@
 - Student at DAIS
-- Current Projects:
-  - DMECC Volunteer Portal
-  - Personal Portfolio
-- Finished Projects:
-  - League of Legends Cooldown Tracker
-  - USACO Problem Checklist w/ USACO Sync
+## Todo Projects
+- Long tone/metrenome/tuner
+## Current Projects
+- DMECC Volunteer Portal
+- Personal Portfolio
+## Finished Projects
+- League of Legends Cooldown Tracker
+- USACO Problem Checklist w/ USACO Sync
 
 <!---
 raybbian/raybbian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
