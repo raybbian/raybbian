@@ -1,5 +1,5 @@
 # Welcome!
-My name is Raymond Bian, and I'm currently a Computer Science major studying at Georiga Tech, and this is my github profile. Feel free to take a look around (please look away from the bad code, though)!
+My name is Raymond Bian, and I'm currently a Computer Science major studying at Georgia Tech, and this is my github profile. Feel free to take a look around (please look away from the bad code, though)!
 
 You can learn more about be at https://raybb.dev
 <!---
